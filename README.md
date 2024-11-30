@@ -8,7 +8,7 @@
 ### install base dependencies
 hyprland
 ```bash
-sudo pacman -S git gnome gnome-extra gnome-tweaks hyprland-git fuzzel ttf-firacode-nerd
+sudo pacman -S git gnome gnome-extra gnome-tweaks hyprland-git fuzzel ttf-firacode-nerd hyprlock
 ```
 ikuti instruksi pada wiki ini untuk menginstall hyprpanel [HyprPanel](https://hyprpanel.com/getting_started/installation.html)
 
